@@ -1,0 +1,15 @@
+C:\Users\Hugo\Desktop\TorricelliCSharp\TorricelliCSharp\bin\Debug\net6.0\TorricelliCSharp.exe
+C:\Users\Hugo\Desktop\TorricelliCSharp\TorricelliCSharp\bin\Debug\net6.0\TorricelliCSharp.deps.json
+C:\Users\Hugo\Desktop\TorricelliCSharp\TorricelliCSharp\bin\Debug\net6.0\TorricelliCSharp.runtimeconfig.json
+C:\Users\Hugo\Desktop\TorricelliCSharp\TorricelliCSharp\bin\Debug\net6.0\TorricelliCSharp.dll
+C:\Users\Hugo\Desktop\TorricelliCSharp\TorricelliCSharp\bin\Debug\net6.0\TorricelliCSharp.pdb
+C:\Users\Hugo\Desktop\TorricelliCSharp\TorricelliCSharp\obj\Debug\net6.0\TorricelliCSharp.csproj.AssemblyReference.cache
+C:\Users\Hugo\Desktop\TorricelliCSharp\TorricelliCSharp\obj\Debug\net6.0\TorricelliCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hugo\Desktop\TorricelliCSharp\TorricelliCSharp\obj\Debug\net6.0\TorricelliCSharp.AssemblyInfoInputs.cache
+C:\Users\Hugo\Desktop\TorricelliCSharp\TorricelliCSharp\obj\Debug\net6.0\TorricelliCSharp.AssemblyInfo.cs
+C:\Users\Hugo\Desktop\TorricelliCSharp\TorricelliCSharp\obj\Debug\net6.0\TorricelliCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Hugo\Desktop\TorricelliCSharp\TorricelliCSharp\obj\Debug\net6.0\TorricelliCSharp.dll
+C:\Users\Hugo\Desktop\TorricelliCSharp\TorricelliCSharp\obj\Debug\net6.0\refint\TorricelliCSharp.dll
+C:\Users\Hugo\Desktop\TorricelliCSharp\TorricelliCSharp\obj\Debug\net6.0\TorricelliCSharp.pdb
+C:\Users\Hugo\Desktop\TorricelliCSharp\TorricelliCSharp\obj\Debug\net6.0\TorricelliCSharp.genruntimeconfig.cache
+C:\Users\Hugo\Desktop\TorricelliCSharp\TorricelliCSharp\obj\Debug\net6.0\ref\TorricelliCSharp.dll
