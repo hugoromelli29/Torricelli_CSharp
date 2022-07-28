@@ -2,4 +2,4 @@
 
 > Status do projeto: completo
 
-Projeto em C# com orientação objeto e herança de classe
+Usando orientação objeto e herança de classes, o console resolve um problema simples de Equação de Torricelli.
